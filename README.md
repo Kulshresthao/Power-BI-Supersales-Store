@@ -1,4 +1,4 @@
-Superstore sales Dashboard - PowerbI 📊 I'm excited to share my inaugural Power BI Dashboard
+Superstore sales Dashboard - Power BI 📊 I'm thrilled to present my first Power BI Dashboard.
 
 This initiative seamlessly merges data analysis with visualization, producing a melody of practical insights. 💡
 
